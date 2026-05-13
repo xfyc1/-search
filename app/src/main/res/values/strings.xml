@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndeSearch</string>
+    <string name="search_hint">搜索文件名…</string>
+    <string name="no_results">没有找到结果</string>
+    <string name="indexing">正在建立索引…</string>
+    <string name="index_complete">索引完成，共 %d 个文件</string>
+    <string name="permission_required">需要存储权限才能索引文件</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="settings">设置</string>
+    <string name="rebuild_index">重建索引</string>
+    <string name="excluded_dirs">排除目录</string>
+    <string name="about">关于</string>
+    <string name="files_found">%d 个文件</string>
+    <string name="index_notification_channel">索引服务</string>
+    <string name="index_in_progress">正在索引文件…</string>
+</resources>
